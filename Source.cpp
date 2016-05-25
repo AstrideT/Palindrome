@@ -6,8 +6,8 @@
 Enter string : able was I ere I saw elba
 able was I ere I saw elba
 is a palindrome.
-Enter string : madam I’m  adam
-madam I’m adam
+Enter string : madam Iâ€™m  adam
+madam Iâ€™m adam
 is not palindrome*/
 //********************************************************************************************************
 
@@ -47,7 +47,7 @@ int main()
 			line2 = line2 + ch1;
 			pos--;
 		}
-		cout << "Reading it  gives from back to front gives ";
+		cout << "Reading it from back to front gives: ";
 		cout << line2 << endl << endl;
 
 		cout << "Hence, ";
