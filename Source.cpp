@@ -1,14 +1,7 @@
 //********************************************************************************************************
 //A palindrome is a phrase that reads the same both forward and backward.
-//This C++ program reads a line from cin, prints its characters in reverse order on cout, 
-//and then pronounces judgment on whether the input line is a palindrome.For example, here are two sample runs of the program :
-/*
-Enter string : able was I ere I saw elba
-able was I ere I saw elba
-is a palindrome.
-Enter string : madam I’m  adam
-madam I’m adam
-is not palindrome*/
+//This C++ program reads a line input by user,prints the same sentence without spaces and all letters in lowercase and 
+//and then pronounces judgment on whether the input line is a palindrome.
 //********************************************************************************************************
 
 #include<iostream>
